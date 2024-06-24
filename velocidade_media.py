@@ -1,0 +1,1 @@
+#Programa que calcula a velocidade média
